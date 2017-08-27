@@ -18,6 +18,7 @@ h2{
   font-weight: 700;
   text-align: center;
   padding-top: 2%;
+  color: #f5f5f5;
 }
 
 h3{
@@ -28,7 +29,9 @@ h3{
 }
 
 p{
-  font-size: 160%;
+  font-family: 'Alegreya Sans', sans-serif;
+  color: #f5f5f5;
+  font-size: 130%;
   line-height: 150%;
   padding: 3%;
   text-indent: 2%;
@@ -105,4 +108,120 @@ nav ul li a:hover{
 }
 
 /* End nav CSS */
+
+.banner{
+  width: 100%;
+  background-color: #6991ac;
+}
+
+.banner-inner{
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+.one-fourth{
+  float: left;
+  text-align: center;
+  width: 25%;
+}
+
+#html{
+  background-color: #f1aa90;
+}
+
+#css{
+  background-color: #beb9ad;
+}
+
+#seo{
+  background-color: #aadcd2;
+}
+
+#social{
+  background-color: #a2b2c1;
+}
+
+.one-fourth i{
+  color: #f0f0f0;
+  font-size: 500%;
+  padding: 13% 0 4% 0;
+}
+
+.inner-wrapper{
+  float: left;
+  width: 100%;
+  background-color: #c3d7df;
+}
+
+article{
+  float: left;
+  width: 50%;
+  margin: 0 auto;
+  height: auto;
+}
+
+#tablet{
+  background-color: #c3d7df;
+}
+
+aside{
+  float: right;
+  margin: 0 auto;
+  width: 50%;
+  height: auto;
+}
+
+#tablet2{
+  background-color: #a2b1c1;
+}
+
+.inner-wrapper-2{
+  float: left;
+  width: 100%;
+  background-color: #c3d7df;
+}
+
+.inner-wrapper-3{
+  float: left;
+  width: 100%;
+  background-color: #AADCD2;
+}
+
+#mobile{
+  background-color: #bab9ad;
+  float: left;
+}
+
+#desktop2{
+  background-color: #f1aa90;
+}
+.one-third{
+  width: 33.3%;
+  float: left;
+  text-align: center;
+}
+
+#google{
+  background-color: #a2b1c1;
+}
+
+#marketing{
+  background-color: #bab9ad;
+}
+
+#customers{
+  background-color: #aadcd2;
+}
+
+#smily{
+  background-color: #aadcd2;
+  padding: 0 0 1%;
+  clear: both;
+}
+
+/* End Main css*/
+
+/* Start Footer styles */
+
+
 
